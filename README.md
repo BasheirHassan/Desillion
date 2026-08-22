@@ -1,6 +1,6 @@
 # Desillion
 
-📥 [**تحميل السيرفر**](https://github.com/BasheirHassan/Desillion/releases/download/v1.0.0/DesillionServer.rar)
+📥 [**تحميل السيرفر**](https://github.com/BasheirHassan/Desillion/releases/download/v1.0.0/DesillionServer.zip)
 
 ## معاينة واجهة المستخدم
 
