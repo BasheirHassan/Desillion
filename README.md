@@ -4,7 +4,7 @@
 
 <div dir="rtl" align="center">
 
-<img src="src/assets/icon/favicon-32x32.png" width="72" alt="شعار Desillion"/>
+<img src="images/icon.png" width="72" alt="شعار Desillion"/>
 
 #ديشليون — Desillion
 
