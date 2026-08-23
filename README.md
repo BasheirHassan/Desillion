@@ -1,6 +1,6 @@
-<div dir="rtl" align="center">
+<div align="center">
 
-<img src="images/icon.png" width="110" alt="شعار ديسيليون"/>
+<img src="images/icon.png" width="110" alt="Desillion Logo"/>
 
 # ديسيليون — Desillion
 
@@ -78,7 +78,7 @@
 
 1. قم بتحميل ملف السيرفر من الزر أدناه:
 
-<div dir="rtl" align="center">
+<div align="center">
 
 [![تحميل السيرفر](https://img.shields.io/badge/%F0%9F%93%A5_%D8%AA%D8%AD%D9%85%D9%8A%D9%84_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D9%81%D8%B1-DesillionServer.zip-brightgreen?style=for-the-badge)](https://github.com/BasheirHassan/Desillion/releases/download/v1.0.0/DesillionServer.zip)
 
@@ -101,9 +101,10 @@
 
 ---
 
-<div dir="rtl" align="center">
+<div align="center">
 
 **ديسيليون — إدارة أعمالك ببساطة واحترافية** 🚀
 
+⭐ إذا أعجبك البرنامج لا تنسَ دعمنا بنجمة على GitHub
 
 </div>
